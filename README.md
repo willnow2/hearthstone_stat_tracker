@@ -3,7 +3,7 @@ This program is used to help with tracking of stats for the game Hearthstone.
 When a game starts, select the class you and your opponent are playing as.
 Checkmark the box 'Got Coin?' if you go second (ie. start with the coin), deselect the box if you go first and thus, don't have the coin.
 At the end of the game, click either the 'Victory' or the 'Defeat' button to track the result.
-As soon as either button is clicked, the result will be automatically saved in a CSV file. The name of the csv file will be the current day's date following the format MMdd(day of week).csv
+As soon as either button is clicked, the result will be automatically saved in a CSV file. The name of the csv file will be the current day's date following the format MMddEEE.csv
 As more and more results are saved, the contents and size of any given csv file will grow, depending on how many games are tracked on a given day.
 
 IMPORTANT
